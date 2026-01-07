@@ -7,10 +7,18 @@
   },
   "author": "NitishKumar",
   "license": "ISC",
-  "description": "",
-  "type": "module", 
+  "type": "module",
   "dependencies": {
     "random-words": "^2.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishh07/Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nitishh07/Backend/issues"
+  },
+  "homepage": "https://github.com/nitishh07/Backend#readme",
+  "description": ""
 }
-
